@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: "Poppins", sans-serif;
+    background-color: black;
+    color: white;
+}
+h1{
+    background-color:rgb(14, 98, 151) ;
+    color: white;
+    margin: 15px;
+    border-radius: 10px;
+    border-color: rgb(146, 47, 47);
+}
+
+.box{
+    border: 2px solid ;
+    border-radius: 2px;
+    padding: 20px;
+    width:35%;
+    margin: auto;
+    margin-top: 45px;
+    text-align: center;
+    background-color: rgb(85, 187, 210);
+    box-shadow: 5px 5px white;
+}
+
+.box input{
+     background-color: white;
+     margin-bottom: 20px;
+     color: black;
+     
+}
+.but{
+    background-color: blue;
+    color: white;
+    padding: 3px;
+    width: 50px;
+    
+}
+.but:hover{
+    background-color: aquamarine;
+}
+.innerbox{
+    background-color: rgb(125, 171, 182);
+
+}
+.innerbox li{
+    text-align: left;
+    margin-bottom: 1px;
+    background-color: rgb(44, 152, 176);
+    
+}
+.innerbox .but{
+    margin-left: 10px;
+    width:100px;
+
+}
